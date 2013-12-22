@@ -1,4 +1,4 @@
-Project-Euler
+Project-Euler Problems
 =============
 
-Project Euler problems
+For teaching myself C++
